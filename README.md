@@ -28,5 +28,4 @@
 
 Make sure to include the access token in the request headers when creating or deleting a To-Do item.
 
-Happy coding! 🚀
 
